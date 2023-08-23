@@ -2,44 +2,13 @@
 
 Notebooks for course on Topics in Scientific Computing at QMUL 2023/2024.
 
-For more information and class resources see the [wiki](https://github.com/KAClough/TopicsInSciComp/wiki).
-
-# Installation
-
-1. [Fork and clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-   this repository.
-
-2. Create a [Python environment](https://docs.python.org/3/tutorial/venv.html),
-   e.g. in `./env`:
-
-    ```sh
-    python3 -m venv ./env
-    ```
-
-3. Install the Python requirements:
-
-    ```sh
-    # Activate the Python environment
-    . ./env/bin/activate
-    # Install the requirements
-    pip install -r ./requirements.txt
-    ```
-
-4. Run the Jupyter notebook use either:
-
-    ```sh
-    jupyter-lab
-    ```
-    
-    or
-
-    ```sh
-    jupyter notebook
-    ```
-    (depending on the style of interface that your prefer)
+For more information and class resources see the [QM Plus pages](https://qmplus.qmul.ac.uk/course/view.php?id=23086) and the [wiki](https://github.com/KAClough/TopicsInSciComp/wiki).
     
 
 # Acknowledgements
 
 The main developer of this repository is [Katy Clough](https://www.qmul.ac.uk/maths/profiles/katyclough.html), who is supported by a UK STFC Ernest Rutherford Fellowship ST/V003240/1.
 
+Thanks to the previous lecturer of this course, Haris Markakis, for sharing his material, on which much of this course is based.
+
+Thanks to the authors of [MTH5001](https://qmplus.qmul.ac.uk/course/view.php?id=20561) for the use of many of their explanations on the use of python and jupyter notebooks at QMUL.
