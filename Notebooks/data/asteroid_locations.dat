@@ -1,0 +1,9 @@
+# This file contains the asteroid locations required in the week 2 lab exercises
+# x position, y position
+1 2
+2 -3
+3 0
+5 3
+7 -1
+7 2
+8 1
