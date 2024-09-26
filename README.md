@@ -1,6 +1,6 @@
 # TopicsInSciComp
 
-Notebooks for course on Topics in Scientific Computing at QMUL 2023/2024.
+Notebooks for course on Topics in Scientific Computing at QMUL, run in 2023/2024 and 2024/2025.
 
 For more information and class resources see the [QM Plus pages](https://qmplus.qmul.ac.uk/course/view.php?id=23086) and the [wiki](https://github.com/KAClough/TopicsInSciComp/wiki).
     
